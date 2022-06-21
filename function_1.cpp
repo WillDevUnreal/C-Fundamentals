@@ -6,7 +6,7 @@ void sayHello(){
 }
 
 void sayHelloTo(string name){
-     cout << "Hello! " << name << endl;
+     cout << "Hello! Welcome " << name << endl;
 }
 
 int main(){
